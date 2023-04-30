@@ -2,7 +2,7 @@
     <div>
         <hr class="border-1 my-8 border-gray-400 sm:w-4/12 mx-auto">
         <div class="text-center my-4 dark:text-white flex items-center justify-center">
-            Freelauncer at fiverr <a href="https://www.fiverr.com/r_sailesh" target="_blank"
+            Freelancer at fiverr <a href="https://www.fiverr.com/r_sailesh" target="_blank"
                 class="text-white py-1 px-2 ms-2 rounded-md bg-blue-600">@r_sailesh</a>
         </div>
         <div class="text-center">
