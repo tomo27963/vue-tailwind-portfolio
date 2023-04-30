@@ -28,10 +28,6 @@ Install dependencies
   npm install
 ```
 
-```bash
-  vite install
-```
-
 Start the server
 
 ```bash
